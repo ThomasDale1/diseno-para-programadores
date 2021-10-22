@@ -1,0 +1,25 @@
+{
+  "name": "diseno-para-programadores",
+  "version": "1.0.0",
+  "description": "Bienvenido al curso de diseño para programadores. En este repositorio encontrarás el material del curso diseño para programadores.",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasDale1/diseno-para-programadores.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasDale1/diseno-para-programadores/issues"
+  },
+  "homepage": "https://github.com/ThomasDale1/diseno-para-programadores#readme"
+}
